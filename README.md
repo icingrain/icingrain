@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78866B,100:9CA986&height=120&text=rokart.F&animation=twinkling&fontColor=FFFFFF&fontSize=40" />
-</div>
-
-<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education </h2> 
   <br>
   <div style="font-weight: 500; font-size: 15px; color: #282d33; line-height: 1.8; display: inline-block; text-align: left;">
