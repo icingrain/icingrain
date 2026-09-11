@@ -25,7 +25,7 @@
   <br>
   <div style="font-weight: 500; font-size: 15px; color: #282d33; line-height: 1.8; display: inline-block; text-align: left;">
     - Korea Univ. <b>Intelligent SW Academy</b>, 5th Cohort (Jul 2024 – Dec 2024) <br>
-    - SK AI Leader Academy <b>SKALA</b>, 2nd Cohort (Jul 2025 – Present)
+    - SK AI Leader Academy <b>SKALA</b>, 2nd Cohort (Jul 2025 – Dec 2025)
   </div>
 </div>
 
